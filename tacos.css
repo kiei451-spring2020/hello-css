@@ -1,0 +1,22 @@
+body {
+  background-color: yellow;
+  width: 980px;
+  padding: 20px;
+}
+img {
+  width: 200px;
+}
+h1 {
+  color: purple;
+  font-size: 50px;
+  border-style: dotted;
+  border-color: purple;
+  border-width: 5px;
+}
+h2 {
+  color: rosybrown;
+}
+p {
+  font-style: italic;
+  font-size: 18px;
+}
